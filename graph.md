@@ -21,3 +21,8 @@ terminologies:-
 adjacent nodes/vertices :- if there is an edge between two vertices say u and v
                             they are called adjacent vertices
                             and e is said to be edge incident to u and v
+
+breadth first search :- to traverse all the vertices in the graph
+                        starting from a source vertex
+                        in a level by level manner
+                        
